@@ -6,6 +6,11 @@ My name is Eike and I am a Data Science Coach at neuefische GmbH in Hamburg.
 - Besides my work I also work on private projects :computer:
 - And I am a also an enthusiastic hobby photographer :camera:
 
+Contact me here:
+
+<a href="https://www.linkedin.com/in/eike-rogall-444bb1154/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
+
 
 
 **Languages and Tools:**  

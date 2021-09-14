@@ -26,7 +26,7 @@ Contact me here:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-![Eike's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogall-e&count_private=true&show_icons=true&theme=tokyonight)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rogall-e.rogall-e)
 

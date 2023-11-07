@@ -15,7 +15,7 @@ Contact me here:
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![dbt](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/LinkedIn.svg)
+![dbt](https://img.shields.io/endpoint?logo=dbt)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)

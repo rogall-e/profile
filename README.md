@@ -15,7 +15,7 @@ Contact me here:
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![dbt](https://img.shields.io/-dbt-black?style=flat-square&logo=dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)

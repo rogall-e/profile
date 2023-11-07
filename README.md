@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Eike and I am a Data Science Coach at neuefische GmbH in Hamburg.
+My name is Eike and I am a Machine Learning Engineering and Senior Data Science Coach at neuefische GmbH in Hamburg.
 
 - Before I started my Data Science journey :earth_africa::airplane: I studied Biology and worked in the scientific field :microscope:.
 - Besides my work I also work on private projects :computer:
@@ -15,6 +15,7 @@ Contact me here:
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![dbt](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dbt.svg)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)

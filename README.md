@@ -8,14 +8,14 @@ My name is Eike and I am a Machine Learning Engineering and Senior Data Science 
 
 Contact me here:
 
-<a href="https://www.linkedin.com/in/eike-rogall-444bb1154/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/eike-rogall-444bb1154/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/LinkedIn.svg"></a>
 </p>
 
 
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![dbt](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dbt.svg)
+![dbt](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/LinkedIn.svg)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)

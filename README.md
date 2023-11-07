@@ -8,7 +8,7 @@ My name is Eike and I am a Machine Learning Engineering and Senior Data Science 
 
 Contact me here:
 
-<a href="https://www.linkedin.com/in/eike-rogall-444bb1154/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+<a href="https://www.linkedin.com/in/eike-rogall-444bb1154/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
 </p>
  
 
